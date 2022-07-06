@@ -1,4 +1,4 @@
-<?php
+z<?php
 // FETCH ALL USERS
 function fetchUsers($conn){
     $query = mysqli_query($conn,"SELECT * FROM `users`");
